@@ -529,7 +529,7 @@ form{
  
  }
  footer{
-    margin-top: 2rem;
+    margin-top: 3rem;
     color: #232d39;
   font-size: 13px;
   text-align: center;
@@ -650,11 +650,12 @@ form{
 }
 .g-container{
     grid-template-columns: 1fr;
+ 
 }
 form{
     margin: 10px;
     width: 70%;
-    height: 100%;
+    height: 90%;
 }
 #subject{
    
@@ -664,12 +665,13 @@ form{
     width: 100%;
     
 }
+footer{
+    margin-top: 2rem;
+}
 .specific-input{
     flex-wrap: wrap;
 }
-/* form button{
-    margin-top: 4rem;
-} */
+
 
 
 }
